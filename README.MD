@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:Luciano Mendez
+- **Nombre: Luciano Mendez
 - **Comisión:** M2025-17 
 
 ## 📂 Descripción del Repositorio  
